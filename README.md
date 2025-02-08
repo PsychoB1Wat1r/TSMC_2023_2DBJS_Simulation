@@ -1,6 +1,6 @@
 ## FTROA networked filtering of 2DBJS
 
-This repository contains the code implementation of our TSMC_2023 paper [here](https://www.sciencedirect.com/science/article/abs/pii/S100757042300374X).
+This repository contains the code implementation of our TSMC_2023 paper [here](https://ieeexplore.ieee.org/abstract/document/10287368).
 
 If you find this repository useful, please cite our paper.
 ```
